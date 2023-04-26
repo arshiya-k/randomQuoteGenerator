@@ -19,3 +19,10 @@ $ git clone https://github.com/arshiya-k/randomQuoteGenerator.git
 ```sh
 npm run start
 ```
+
+The terminal will display where to access the website. For example, it will display like this
+
+```
+Local:            http://localhost:3000/
+On Your Network:  http://10.225.86.195:3000/
+```
