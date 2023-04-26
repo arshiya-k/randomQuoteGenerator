@@ -17,7 +17,7 @@ $ git clone https://github.com/arshiya-k/randomQuoteGenerator.git
 2. Run it from the **root directory** with the command
 
 ```sh
-npm run start
+$ npm run start
 ```
 
 The terminal will display where to access the website. For example, it will display like this
